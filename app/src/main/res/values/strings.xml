@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="authorInf">Інформація про автора</string>
+    <string name="baseText">Про автора</string>
+    <string name="myGoals">Мої цілі</string>
+    <string name="authorName">Власенко О.В.</string>
+    <string name="speciality">Інженерія Програмного Забезпечення</string>
+    <string name="group">ПР4-1</string>
+    <string name="authorGoals">Згадати як користуватись андроід студіо</string>
+</resources>
